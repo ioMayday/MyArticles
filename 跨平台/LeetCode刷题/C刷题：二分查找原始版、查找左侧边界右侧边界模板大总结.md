@@ -283,6 +283,7 @@ int search(int* nums, int numsSize, int target){
  - [1712. 将数组分成三个子数组的方案数](https://leetcode-cn.com/problems/ways-to-split-array-into-three-subarrays/)
  -  [1552.两球之间的磁力](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/solution/)
  -  [34.在排序数组中查找元素的第一个和最后一个位置（中等）](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+ - [经典砍树例子](https://oi-wiki.org/basic/binary/)
 
 ## 参考资料
 ---
@@ -290,6 +291,6 @@ int search(int* nums, int numsSize, int target){
 2. [二分搜索怎么用？我又总结了套路](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye-3/er-fen-yun-yong)
 3. [我和快手面试官对二分搜索进行了深度探讨](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye-3/er-fen-fen-ge-zi-shu-zu)
 4. [C 语言中用bsearch()实现查找操作](https://www.cnblogs.com/darklights/p/5022505.html)
-
+5. [二分应用：【砍树例子很经典】](https://oi-wiki.org/basic/binary/)
 
 
