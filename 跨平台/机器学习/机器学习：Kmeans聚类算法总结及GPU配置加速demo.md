@@ -398,3 +398,5 @@ if __name__ == "__main__":
 2. [K-means(K均值）](https://blog.csdn.net/u012328159/article/details/51377896)
 3. [scikit-learn之kmeans应用及问题](https://blog.csdn.net/u012328159/article/details/86554833)
 4. [用scikit-learn学习K-Means聚类](https://www.cnblogs.com/pinard/p/6169370.html)
+5. [kmcuda: GPU加速 Kmeans](https://blog.csdn.net/ling620/article/details/101374751)
+6. [In-depth Intuition of K-Means Clustering Algorithm in Machine Learning](https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/)
